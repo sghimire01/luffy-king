@@ -1,2 +1,4 @@
 # unity-platformer
-"Unity Platfomer" is a 2D Unity game (C#) that has artificially coded constant gravity, collision detection, and an item/hp system 
+
+By Samyak Ghimire
+Included files are the Unity Asset files that include handmade scenes/assets in Photoshop, C# code for the actual gameplay, and the animations for each asset. Can be put into a new Unity folder
