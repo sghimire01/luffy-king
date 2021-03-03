@@ -1,4 +1,4 @@
-# unity-platformer
+# Unity-Platformer
 
 By Samyak Ghimire
 
