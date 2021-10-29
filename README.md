@@ -15,3 +15,6 @@ Unity game made in C# that has:
 - respawn system
 - artifically coded constant gravity (like mario games)
 - All assets self-made
+_____________________________________________________________________________________________________________________________________________________
+
+Can be run if you download the "Game Folder" and start the "New Unity Project.exe". All assets are included in the assets folder. 
