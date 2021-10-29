@@ -3,4 +3,15 @@
 By Samyak Ghimire
 
 _____________________________________________________________________________________________________________________________________________________
-Included files are the Unity Asset files that include handmade scenes/assets in Photoshop, C# code for the actual gameplay, and the animations for each asset. Can be put into a new Unity folder
+A platforming game made to be challenging like the popular Jump King. 
+
+Unity game made in C# that has:
+- self-coded physics engine
+- 2d hit objects (2d hit collision detection)
+- item system
+- health system
+- locally saved scores
+- point system
+- respawn system
+- artifically coded constant gravity (like mario games)
+- All assets self-made
