@@ -1,6 +1,6 @@
 # Luffy King
 
-By Samyak Ghimire
+By Samyak Ghimire, Suyogya Poudel
 
 _____________________________________________________________________________________________________________________________________________________
 A platforming game made to be challenging like the popular Jump King. 
